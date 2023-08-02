@@ -354,7 +354,10 @@ p {
 
 	nav {
 		position: fixed;
-		height: 65px;
+    height: 65px;
+    margin: 0;
+    padding: 0;
+    width: 99%;
 	}
 
 	body {
